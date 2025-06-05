@@ -1,0 +1,4 @@
+实验三、对比实验
+
+本实验主要是与基线模型进行对比，包括单纯的文本抽取模型BERT，单纯的图像抽取模型ViT，以及多模态模型CLIP
+对其结果进行分析，评价指标也是Accuracy、Precision、Recall和F1 Score.
